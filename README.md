@@ -18,6 +18,6 @@ To install "QRcode" Module, Open Your Terminal and Type "pip3 install install qr
 
 Steps To generate the QR code:
 
-Step 1 : Download the file From https://github.com/HarshitRatan/QRcode_Generator
+Step 1 : Download the file From https://github.com/HarshitRatan/QRcode-Generator-Command-line
 Step 2 : Open your Terminal in QRcode-Generator-Command-line Folder.
 Step 3 : Run "python3 QRcode-Generator-Command-line.py".
